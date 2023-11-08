@@ -1,0 +1,1014 @@
+/@import url("https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900");
+ @import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css);
+*{
+padding: 0%;
+margin: 0%;
+/* /font-family: poppins ; */
+}
+.navbar-brand{
+    background-color: rgb(235,175 ,10);
+    margin-top: -10px;
+}
+#mynavbar i:hover{
+color:gold;
+}
+
+#top{
+background-image: url(./images/in\ in.jpg);
+height: 600px;
+background-size:cover;
+background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,1)),
+b
+}
+#up{
+    background-image: url(./images/in.jpg);
+height: 700px;
+    background-size: cover;    
+}
+#tip{
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5)),
+    url(./images/balablu.jpg); 
+    height: 600px;
+    background-size: cover;
+    background-color: black;
+    background-position: center;
+}
+#cerm1{
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5)),
+    url(./images/balablu.jpg); 
+background-position: center;
+    background-size: cover;
+    background-color: black;
+    height: 600px;
+}
+
+.showcase h5{
+    color: white;
+    font-weight: 200;
+    font-size: 15pt;
+
+}
+.showcase p{
+    color: rgb(166, 164, 164);
+    font-size: 12pt;
+}
+.navbar-nav .nav-item .nav-link{
+    text-transform: uppercase;
+    color: bisque;
+}
+.navbar-nav .nav-item .nav-link:hover,
+.navbar-nav .nav-item .active{
+    color:rgb(235,175,10);
+}
+.navbar-nav .nav-item .active{
+    color: aliceblue;
+    border-bottom: 3px solid rgb(235,175,10);
+}
+.oreo i :hover{ 
+    color: rgb(234, 175, 10); 
+}
+.showcase h6{
+    font-family: poppins;
+    background-color: yellow;
+    color: black;
+    width: fit-content;
+    font-size: 21pt;
+    font-weight: bold;
+    letter-spacing:1px ;
+    word-spacing: 3px;
+    padding: 2%;
+}
+.cerm2{
+    color: white;
+
+}
+.contop{
+    background-color: antiquewhite;
+}
+.cerm3 h1{
+    font-weight: bolder;
+    font-size: 3em;
+}
+.cerm2 a{
+    color: white;
+    text-decoration: none;
+    font-size: larger;
+}
+.showcase h1{
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color:white;
+font-size: 3.5em;
+word-spacing: 3px;
+line-height: 1;
+font-weight: bold;
+width: fit-content;
+letter-spacing:1px ;
+}
+.showcase{
+    padding: 7% 0% 3% 0%;
+}
+.show-link a{
+    background-color: yellow;
+    color: black;
+    font-weight: 700;
+word-spacing: 3px;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+    text-decoration: none;
+
+}
+.ren{
+    background-image: url(./images/net-removebg-preview.png);
+    min-height: 250px;
+    background-size: 100%;
+}
+.xpx h1{
+    background-color: yellow;
+    color: white;
+    font-size: x-large;
+    width: fit-content;
+}
+.pxx{
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+#id{
+    background-color:whitesmoke;
+background-size: cover;
+
+
+}
+.ner{
+    border: 0.2px solid black;
+    padding: 2%;
+}
+.ner a{
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    margin: 12px;
+    padding: 2px;
+}
+#ictop{
+    background-color: white;
+background-size: cover;
+}
+.id1 h1{
+   background-color: red; 
+   margin:5%;
+color: white;
+width: fit-content;
+}
+.id1 h2{
+    font-size: 3em;
+    margin: 5%;
+}
+.id1 a{
+color: black;
+text-decoration: none;
+}
+.linnk a{
+color: white;
+text-decoration: none;
+}
+.case {
+color: bisque;
+font-size: xx-large;
+}
+
+.show-link a :hover{
+    background-color: black;
+    
+}
+#icon-top{
+    background-color: yellow;
+}
+#icon-top h3{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-color: yellow;
+color: black;
+width: fit-content;
+word-spacing: 3px;
+letter-spacing: 1px;
+font-weight: 900;
+}
+#icon-top img{
+    padding-left: 3%;
+}
+#tt{
+    padding-top: 2%;
+    text-align: center;
+    
+}
+.li .p-1{
+    text-align: center;
+    width: fit-content;
+background-color:rgb(234, 175, 10)
+
+
+}
+#li .container h6{
+    color: white;
+}
+.trip1{
+    text-align: center;
+    color:black;
+    padding: 5%;
+}
+ .pl h1{
+font-weight: 5em;
+ }  
+ 
+.trip2{
+    text-align: center;
+    color:black;
+    padding: 5%;
+}
+
+.trip3{
+    text-align: center;
+    color:black;
+    padding: 5%;
+}
+
+.trip4{
+    text-align: center;
+    color:black;
+    padding: 5%;
+}
+
+.trip1 i{
+    background-color: black;
+    padding: 5%;
+    color: white;
+}
+.trip1 i:hover{
+    background-color:antiquewhite;
+    padding: 5%;
+    color:black;
+}
+.trip2 i{
+    background-color: black;
+    padding: 5%;
+    color: white;
+}
+.trip2 i:hover{
+    background-color:antiquewhite;
+    padding: 5%;
+    color:black;
+}
+.trip3 i{
+    background-color: black;
+    padding: 5%;
+    color: white;
+}
+.trip3 i:hover{
+    background-color:antiquewhite;
+    padding: 5%;
+    color:black;
+}
+.trip4 i{
+    background-color: black;
+    padding: 5%;
+    color: white;
+}
+.trip4 i:hover{
+    background-color:antiquewhite;
+    padding: 5%;
+    color:black;
+}
+#tt .container  {
+    padding: 1%;
+    text-align: center;
+    background-color:yellow;
+    width: fit-content;
+
+}
+.yy {
+text-align: left;
+}
+.text-cen{
+    text-align: center;
+}
+.or a{
+    text-align: center;
+    border: 2px solid yellow;
+    color: yellow;
+    background-color:white;
+    text-decoration: none;
+    padding: 10px;
+  
+}
+.mean1{
+text-align: center;
+background-color: rgb(232, 233, 235);
+  margin: 5%; 
+  letter-spacing: 2px;
+}
+.mean1 p{
+    padding-left: 15%;
+    padding-top: 2%;
+}
+.mean1 h1{
+    padding-top:3%;
+}
+
+.or{
+    padding-top: 5%;
+}
+.or a:hover{
+    background-color:yellow;
+    color: white;
+}
+.ee{
+    background: url(./images/grt.jpg);
+    
+}
+.box1{
+    background: url(./images/eer.jpg);
+    height: 350px;
+  text-align: center;
+  padding: 2px;
+  border: 2px solid white;
+}
+.box2{
+    background: url(./images/grt.jpg);
+    background-size: cover;
+     height: 350px;
+       text-align: center;
+       padding: 2px;
+       border: 2px solid white;
+}
+#kam img{
+border: 2px solid white;
+}
+
+.box1 h6{
+    font-size: 46px;
+    color: blanchedalmond;
+    
+   padding-top: 66px;
+  
+}
+.box1 h6 a{
+   color: aliceblue;
+  text-decoration: none;
+  border: 2px solid yellow;
+}
+.box1 h1{
+  color: gold;
+}
+.box2 h6{
+    font-size: 46px;
+    color: blanchedalmond;
+     
+   padding-top: 66px;
+  
+}
+.box2 h6 a{
+   color: aliceblue;
+  text-decoration: none;
+  border: 2px solid yellow;
+}
+.box2 h1{
+  color: gold;
+}
+.reo{
+    color: beige;
+    background-color: yellow;
+    width: fit-content;
+padding: 1%;
+
+}
+.vv{
+    font-size: 85px;
+}
+#bte{
+   background-color: yellow;
+   color: red; 
+}
+
+.td1{
+    background-color: black;
+    width: fit-content;
+    height:500px;
+    padding-top: 10%;
+  padding: 5%;
+
+}
+.td1 h1{
+    background-color: red;
+    color:white;
+    width: fit-content;
+      margin-left:15%;
+      font-size: 29px;
+}
+.td1 h2{
+font-size: 35px;
+color: beige;
+margin-left: 15%;
+}
+#foot p{
+color: beige;
+}
+/*contact stuff*/
+
+.ram i{
+font-size: 61px;
+color: gold;
+margin:4%;
+;
+}
+.ram p{
+    margin: 4%;
+}
+.man i{
+font-size: 61px;
+color: gold;
+}
+.foot i {
+background-color: aliceblue;
+color: black;
+padding: 2%;
+font-size: larger;
+
+}
+#draw{
+    margin: 15%;
+}
+#loc .row {
+    background-size: contain;
+
+}
+.lest{
+    background: url();
+}
+.locimg1{
+    background: url(./images/grt.jpg);
+    min-height: 200px;
+    background-size: contain;
+}
+.locimg2{
+    background: url(./images/res.jpg);
+    min-height: 200px;
+    background-size: cover;
+    background-position: center;
+}
+.locimg3{
+background: url(./images/in.jpg);
+min-height: 200px;
+background-size:contain ;
+}
+.locimg4{
+    background: url(./images/in\ in.jpg);
+    min-height: 200px;
+    background-size:cover;
+    background-position: center;
+    }
+ .olcimg1{
+    background: url(./images/bg1.jpg);
+    min-height: 200px;
+    background-size:cover ;  
+ }   
+
+ .olcimg2{
+    background: url(./images/bg3.jpg);
+    min-height: 200px;
+    background-size:cover ;  
+ }   
+ .olcimg3{
+    background: url(./images/r\ bg2.jpg);
+    min-height: 200px;
+    background-size:cover ;  
+ }   
+ .olcimg4{
+    background: url(./images/r\ bg3.jpg);
+    min-height: 200px;
+    background-size:cover ;  
+ }   
+ .olcimg5{
+    background: url(./images/bg5.jpg);
+    min-height: 200px;
+    background-size:cover ;  
+ }   
+.veg1{
+    background-image: url(./images/bef-removebg-preview.png);
+    min-height: 300px;
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(247, 247, 249);
+    
+}
+.veg2{
+    background-image: url(./images/bef-removebg-preview.png);
+    min-height: 300px;
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(247, 247, 249);
+    
+}
+.veg3{
+    background-image: url(./images/bef-removebg-preview.png);
+    min-height: 300px;
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(247, 247, 249);
+    box-shadow: 112px black;
+}
+.pin{
+    text-align: center;
+    text-transform:capitalize;
+}
+.nip{
+    text-transform: capitalize;
+    text-align: center;
+}
+.ipp{
+    text-align: center;    
+
+}
+.tim{
+    background-image: url(./images/bg3.jpg);
+    min-height: 500px;
+    background-size: cover;
+    padding: 3%;
+}
+.tray1{
+background-color: white;
+    min-height: 500px;
+    background-size:cover;
+    width: 552px;
+    padding: 5%;
+}
+
+.tray2{
+    background: url(./images/r\ bg3.jpg);
+    min-height: 500px;
+    background-size:cover;
+    
+}
+.sid{
+    background-color:gold;
+    color: white;
+    width: fit-content;
+    font-size: large;
+    
+    padding: 5px;
+}
+.sss{
+    font-size: 3em;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+/*galleries stuff*/
+#rem{
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5)),
+    url(./images/bg1.jpg);
+    height:620px;
+    background-size:cover;   
+    background-position: center;
+}
+.nit h6{
+color:rgb(199, 195, 195);
+}
+.nit h1{
+    color: white;
+}
+.nih a{
+    color:rgb(97, 85, 85);
+    text-decoration: none;
+     padding-bottom: 1000%;
+
+}
+.nit a{
+    color: white;
+    text-decoration: none;
+   font-size: large; 
+   list-style: decimal;
+   
+}
+.nit h1{
+  font-weight: 900; 
+  font-size: 3em;
+  line-height: 50px;
+}
+.imp{
+    background-image: url(./images/newb.jpg);
+min-height: 150px;
+background-size: cover;
+}
+.it h1{
+  font-size: medium; 
+  text-align: center; 
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+  letter-spacing: 2px;
+}
+.it a{
+    color: black;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: x-large;
+}
+#zc{
+    background-color: azure;
+    min-height: fit-content;
+    background-size: cover;
+}
+.it a:hover{
+    color:red;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: x-large;
+}
+.it1 .card{
+    background-color: rgb(215, 214, 214);
+    
+
+}
+.it i:hover{
+    color: red;
+}
+
+
+#drin1{
+background-color: wheat;
+
+}
+.drin2{
+    background-color:rgb(253, 248, 248);
+    background-image: ur;
+    padding:2%;
+display: flex;
+}
+.drin{
+    background: url(./images/almond.jpg );
+    height: 80px;
+    width: 80px;
+    background-size:contain;
+    background-color: rgb(248, 244, 244);
+    border: 00.002px solid rgb(252, 250, 250);
+    border-radius: 1000060px;
+    transition: .5s ease-in-out;
+}
+.trin1{
+    background: url(./images/leches-removebg-preview.png);
+    height: 80px;
+    width: 8 0px;
+    background-size:contain;
+    background-color: rgb(248, 244, 244);
+    border: 00.002px solid rgb(252, 250, 250);
+    border-radius: 1000060px;
+    transition: .5s ease-in-out;
+}
+.trin2{
+    background: url(./images/brownies.jpg);
+    height: 80px;
+    width: 8  0px;
+    background-size:contain;
+    background-color: rgb(248, 244, 244);
+    border: 00.002px solid rgb(252, 250, 250);
+    border-radius: 1000060px;
+    transition: .5s ease-in-out;
+}
+.rzx{
+    text-align: center;
+    font-weight: bolder;
+}
+.rip h1{
+    padding:1%;
+    text-align: center;
+    font-size: medium;
+background-color: red;
+color: white;
+
+}
+.rip{
+    display: flex;
+    
+}
+.pir{
+    background-image: url(./images/blu.jpg);
+    min-height: 500px;
+    background-size: cover;
+}
+.grw h1{
+text-align: center;
+color: white;
+font-size: medium;
+background-color: red;
+padding: 1%;
+margin: 5%;
+}
+.irt p{
+font-size: 35px;
+font-weight: bolder;
+color: white;
+}
+.trr a{
+    color: rgb(131, 119, 119);
+    text-decoration: none;
+}
+.prin1{
+color: white;
+}
+.prin1:hover{
+  color: white;
+  transform: scale(0.9);  
+}
+.rti1{
+    background: url(./images/chok6-removebg-preview.png);
+    height: 60px;
+    width: 100%;
+    background-size:contain;
+    background-color: rgb(248, 244, 244);
+    border: 00.002px solid rgb(252, 250, 250);
+    border-radius: 1000060px; 
+}
+.rti2{
+    background: url(./images/almond.jpg);
+    height: 60px;
+    width: 100%;
+    background-size:contain;
+    background-color: rgb(248, 244, 244);
+    border: 00.002px solid rgb(252, 250, 250);
+    border-radius: 1000060px; 
+}
+.rti3{
+    background: url(./images/leches-removebg-preview.png);
+    height: 60px;
+    width: 100%;
+    background-size:contain;
+    background-color: rgb(248, 244, 244);
+    border: 00.002px solid rgb(252, 250, 250);
+    border-radius: 1000060px; 
+}
+.rti4{
+    background: url(./images/chok4-removebg-preview.png);
+    height: 60px;
+    width: 100%;
+    background-size:contain;
+    background-color: rgb(248, 244, 244);
+    border: 00.002px solid rgb(252, 250, 250);
+    border-radius: 1000060px; 
+}
+.rti5{
+    background: url(./images/chok5-removebg-preview.png);
+    height: 60px;
+    width: 100%;
+    background-size:contain;
+    background-color: rgb(248, 244, 244);
+    border: 00.002px solid rgb(252, 250, 250);
+    border-radius: 1000060px;  
+}
+.rti6{
+    background: url(./images/brownies.jpg);
+    height: 60px;
+    width: 100%;
+    background-size:contain;
+    background-color: rgb(248, 244, 244);
+    border: 00.002px solid rgb(252, 250, 250);
+    border-radius: 1000060px;  
+}
+.tasty{
+    display: grid;
+    grid-template-columns: 2fr 8fr 2fr;
+    gap:3%
+}
+.taste  h4{
+    font-size: 1.2em;
+    line-height: 1;
+    transition: .5s ease-in-out;
+}
+
+.taste  p{
+    font-size: 11.5pt;
+    line-height: 1.3;
+    transition: .5s ease-in-out;
+    color: rgb(131, 119, 119);
+}
+.tasti{
+    display: grid;
+    grid-template-columns: 2fr 8fr 2fr;
+    gap:3%
+}
+.tasti  h4{
+    font-size: 1.2em;
+    line-height: 1;
+    transition: .5s ease-in-out;
+}
+
+.tasti   p{
+    font-size: 11.5pt;
+    line-height: 1.3;
+    transition: .5s ease-in-out;
+    color: rgb(131, 119, 119);
+}
+.tasty:hover{
+    .taste  h4{
+        color: black;
+    }
+    .taste  p{
+        color: rgb(234, 175, 10);
+    }
+    .joy{
+        color: rgb(234, 175, 10);
+    }
+    .trin1{
+        transform: scale(1.2);
+    }
+    
+   
+}
+.tasti:hover{
+    .tasti h4{
+        color: black;
+    }
+    tasti.p{
+        color: rgb(234, 175, 10);
+    }
+    .joy{
+        color: rgb(234, 175, 10);
+    }
+    .trin2{
+        transform: scale(1.2);
+    }
+    
+   
+}
+.trin2:hover{
+    .taste h4{
+        color: black;
+    }
+    .trin2 p{
+        color: rgb(234, 175, 10);
+    }
+    .joy{
+        color: rgb(234, 175, 10);
+    }
+    .trin2{
+        transform: scale(1.2);
+    }
+    
+   
+}
+.submit a{
+    background-color: red;
+width: fit-content;
+padding: 1%;
+padding: 2px 5px 2px 5px;
+color: aliceblue;
+border: 0.4px solid black;
+text-decoration: none;
+margin: 5%;
+}
+.submit a:hover{
+    background-color: white;
+width: fit-content;
+padding: 1%;
+color: black;
+}
+
+  
+.textarea{
+    width: 500px;
+}
+.drin2 hr{
+    opacity: 0.1;
+}
+.joy{
+    font-size:15pt;
+    color: black;
+}
+.drin i{
+    width: fit-content;
+    background-color: rgb(234, 175, 10);
+    height: fit-content;
+    padding: 5px;
+    border-radius: 50%;
+    transition: .5s ease-in-out;
+}
+.drin i:hover{
+    background-color: white;
+    border: 1px solid rgb(234, 175, 10);
+    color: rgb(234, 175, 10);
+}
+.frin i{
+    width: fit-content;
+    background-color: rgb(234, 175, 10);
+    height: fit-content;
+    padding: 5px;
+    border-radius: 50%;
+    transition: .5s ease-in-out;}
+    .frin i:hover{
+        background-color: white;
+        border: 1px solid rgb(234, 175, 10);
+        color: rgb(234, 175, 10);
+    }
+footer{
+    background-color: red;
+    color:white ;
+    font-size: xx-large;
+    padding: 3.5%;
+    font-weight: bolder;
+    padding-left: 15%;
+}
+.fot{
+    background-color: beige;
+    color: black;
+    padding-left: 15%;
+    padding: 2.5;
+    font-size: medium;
+    font-weight: 100;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
